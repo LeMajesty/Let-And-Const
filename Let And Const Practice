@@ -1,0 +1,4 @@
+You can reassign and redeclare with var, but you can not redeclare using the "let" keyword. You can access a hoisted variable with var. Let creates block scope.
+You can reassign and redeclare with var, but you can not redeclare or reassign using the const keyword. You can access a hoisted variable with var. Const creates block scope.
+You can reassign with let, but you can not redeclare or reassign using the const keyword.
+Hoisting is like when JavaScript preps your code before actually running it. It moves your variable and function declarations to the top of their scope.
